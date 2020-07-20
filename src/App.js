@@ -1,12 +1,13 @@
 import React from 'react';
 import Home from './Pages/Home/Home';
-import './Pages/Home/Home.scss';
+import Community from './Pages/Community/Community';
+
 
 
 function App() {
   return (
     <div>
-      <Home/>
+      <Community />
     </div>
   );
 }
