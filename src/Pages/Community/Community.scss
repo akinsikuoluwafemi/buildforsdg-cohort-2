@@ -144,6 +144,42 @@
     background-position: center;
 }
 
+.bg-sec {
+    background-image: url('../../assets/images/undraw_coding_6mjf.svg');
+    min-height: 10rem;
+    background-size: cover;
+    background-position: center
+}
+
+.bg-sec1 {
+    background-image: url('../../assets/images/undraw_coding_6mjf.svg');
+    min-height: 10rem;
+    background-size: cover;
+    background-position: center
+}
+
+
+.bg-sec2 {
+    background-image: url('../../assets/images/undraw_coding_6mjf.svg');
+    min-height: 10rem;
+    background-size: cover;
+    background-position: center
+}
+
+.titlepage {
+    text-align: center;
+}
+
+.showcase {
+    .showcase-text {
+      padding: 3rem;
+    }
+    // .showcase-img {
+    //   min-height: 30rem;
+    //   background-size: cover;
+    // }
+}
+
 .main-section {
     display: flex;
     align-items: center;
